@@ -1,0 +1,231 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Readme.md",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"preview",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"prevewbrow",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"preview bro",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Satori/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/C/Users/Satori/Dropbox/projects/request-page/sftp-config.json",
+		"/C/Users/Satori/Dropbox/Code/My Python Code/mpd_alarm.py",
+		"/C/Users/Satori/Dropbox/Code/Repositories/my-pi-projects/MPD_button_GPIO.py/button_press_GPIO.py",
+		"//RASPBERRYPI/shares/home/webide/repositories/my-pi-projects/alarm.py/mpd_alarm_proper.py",
+		"/C/Users/Satori/Dropbox/Code/Repositories/my-pi-projects/alarm.py/mpd_alarm.py",
+		"/C/Users/Satori/Dropbox/projects/pythonAlarm/mpd_alarm_proper.py",
+		"//RASPBERRYPI/shares/home/webide/repositories/my-pi-projects/MPD_button_GPIO.py/button_press_GPIO.py",
+		"/C/Users/Satori/AppData/Local/Temp/7zOB448.tmp/requires.txt",
+		"/C/Users/Satori/AppData/Local/Temp/7zOCDF0.tmp/top_level.txt",
+		"/C/Users/Satori/Dropbox/Code/Repositories/my-pi-projects/MPD_button_GPIO.py/mpd_alarm_proper.py",
+		"/C/Users/Satori/AppData/Local/Temp/7zO3C8B.tmp/setup.py",
+		"/C/Users/Satori/Dropbox/Code/My Python Code/alarm.old/mpd_alarm.py",
+		"/C/Users/Satori/Dropbox/projects/band/README.md",
+		"/C/Users/Satori/Dropbox/gitignore_global",
+		"/C/Users/Satori/Downloads/Readme (2).md",
+		"/C/Users/Satori/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Satori/Dropbox/angularSaveTest/app.js",
+		"/C/Users/Satori/Dropbox/angularSaveTest/index.html",
+		"/C/Users/Satori/Dropbox/GA/FEWD/Slides/6_FEWD_Session.md",
+		"/G/cmdline.txt",
+		"/C/Users/Satori/Dropbox/GA/FEWD/OnServer/2HW/albums.html",
+		"/C/Users/Satori/Dropbox/GA/FEWD/OnServer/2HW/css/style.css",
+		"/C/Users/Satori/Dropbox/GA/FEWD/examples/ecardly/index.html",
+		"/C/Users/Satori/Dropbox/GA/FEWD/Slides/4_FEWD_Session.md",
+		"/C/Users/Satori/Dropbox/GA/FEWD/examples/ecardly/css/style.css",
+		"/C/Users/Satori/Dropbox/GA/FEWD/h5bp-html5-boilerplate-defe483/README.md",
+		"/C/Users/Satori/Dropbox/GA/FEWD/OnServer/2HW/index.html",
+		"/C/Users/Satori/Dropbox/GA/FEWD/h5bp-html5-boilerplate-defe483/humans.txt",
+		"/C/Users/Satori/Dropbox/GA/FEWD/examples/ecardly/float.html",
+		"/C/Users/Satori/Dropbox/GA/FEWD/examples/ecardly/readme.html",
+		"/C/Users/Satori/Dropbox/GA/FEWD/h5bp-html5-boilerplate-defe483/css/main.css",
+		"/C/Users/Satori/Dropbox/GA/FEWD/examples/brooklyn/css/style.css",
+		"/C/Users/Satori/Dropbox/GA/FEWD/bootstrap/css/bootstrap.css",
+		"/C/Users/Satori/Dropbox/GA/FEWD/examples/cookie-monster/css/style.css",
+		"/C/Users/Satori/Dropbox/GA/FEWD/examples/cookie-monster/index.html",
+		"/C/Users/Satori/Dropbox/GA/FEWD/examples/ecardly/sftp-config.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"float:left",
+			"float"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Readme.md",
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"/C/Users/Satori/Dropbox/angularSaveTest/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true
+}

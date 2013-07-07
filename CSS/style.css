@@ -1,0 +1,259 @@
+html {
+	background-color: black;
+}
+
+hr {
+
+}
+
+body {
+	background: url(../images/bg_wrapper.png), 
+		url(../images/bg_body.jpg);
+	background-repeat: repeat-x, repeat;
+	height: 1000px;
+}
+/*This would be better if separated into the top background and*/
+/*filling the entire background of headers, main, and homeboxes.*/
+/*Then putting a new background color that encapsulated the footer?*/
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix {
+	display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+	display: block;
+}
+ 
+* html .clearfix {
+	height: 1%;
+}
+
+#navi {
+	height: 87px;
+}
+
+#background-page-wrap {
+	width: 960px;
+	margin: 0 auto;
+}
+
+/*#page-wrap-top {
+	width: 960px;
+	margin: 0 auto;
+}*/
+
+#page-wrap-bottom {
+	/*background-color: black;*/
+	/*height: 500px;*/
+	/*clear: left;*/
+}
+
+
+#subhead {
+	margin: 12px 0 12px 0;
+	width: 100%;
+}
+
+#logo {
+	float:left;
+}
+
+#social-media {
+	float: right;
+}
+
+#social-media ul li a {
+	background-image: url(../images/socialNav.png);
+	background-repeat: no-repeat;
+	display: block;
+	width: 47px;
+	height: 47px;
+	text-indent: -9999px;
+	text-decoration: none;
+	float: left;
+}
+
+#social-media ul li{
+	text-decoration: none;
+	float: left;
+	list-style: none;
+	margin-left: 12px;
+}
+.linkedin a:hover {background-position: -9px -7px;}
+.twitter a:hover {background-position: -67px -7px;}
+.facebook a:hover {background-position: -126px -7px;}
+.rss a:hover {background-position: -184px -7px;}
+
+.linkedin a {background-position: -9px -67px;}
+.twitter a {background-position: -67px -67px;}
+.facebook a {background-position: -126px -67px;}
+.rss a {background-position: -184px -67px;}
+
+/*img is behaving like text, so a small space */
+/*below the picture is added due to the tails ygjp*/
+
+img {
+    vertical-align: middle;
+}
+
+#three-columns div {
+	float: left;
+	height: 300px;
+	width: 300px;
+	margin-right: 20px;
+}
+
+#three-columns {
+	color: rgba(0, 0, 0, .5);
+}
+#three-columns img {
+	background-color: white;
+	padding: 1px;
+	border: 5px solid lightgrey;
+}
+
+#three-columns a {
+	color: rgb(7, 182, 255);
+	font-size: 12px;
+}
+p {font-size: 14px;}
+
+ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+a {
+	text-decoration: none;
+}
+#navi ul li {
+	float: left;
+}
+
+#navi ul li a {
+	display:block;
+	height: 47px;
+	color: grey;
+	padding: 40px 15px 0 15px;
+
+}
+
+#navi ul li a:hover {
+	background: url(../images/bg_nav_rollover.png);
+	color: lightblue;
+	background-repeat: repeat-x;
+}
+
+#quote-request {
+	border: 2px inset white;
+	background: url(../images/bg_blurb.jpg);
+	padding: 17px;
+}
+
+/*Had some trouble aligning the img vertically, just used margins.  */
+/*Is there a better way?*/
+
+#quote-request img {
+	float: right;
+	margin-top: 8px;
+}
+
+#blog-roll {
+	width: 255px;
+	float: left;
+}
+
+#text-widget {
+	height: 250px;
+	width: 400px;
+	float: left;
+	margin: 0 16px 0 16px;
+
+}
+
+#text-widget p {
+	border-top: 1px solid grey;
+	color: grey;
+	font-size: 12px;
+}
+#meta-widget {
+	height: 250px;
+	width: 255px;
+	float: right;
+
+}
+
+#meta-widget a {
+	padding-top: 15px;
+
+}
+
+#three-footer {
+	color: white;
+	margin-top: 40px;
+
+}
+
+#three-footer a {
+	color: inherit;
+}
+
+#credits {
+	clear: left;
+	color: grey;
+}
+
+#left-foot {
+	float: left;
+}
+
+#right-foot {
+	float: right;
+}
+
+#blog-roll li,
+#text-widget li,
+#meta-widget li {
+	color: grey;
+	border-top: 1px solid grey;
+	font-size: 12px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+
+#blog-roll li:nth-last-child(1),  
+#meta-widget li:nth-last-child(1) {
+	border-bottom: 1px solid grey;
+}
+
+#credits p {
+	font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
